@@ -1,0 +1,27 @@
+Model Name : finalProject
+Owner : SHARPE Project Group
+Date Created : Tue Jul 11 07:51:51 GMT 2023
+Comment : 
+
+CommentEnd
+
+SubModel : fp
+Type : SRN Model
+
+
+Constant:
+Name:lam1
+Value:1
+
+Constant:
+Name:lam2
+Value:0.5
+
+Constant:
+Name:mu1
+Value:2
+
+Constant:
+Name:mu2
+Value:0.666
+
